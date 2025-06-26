@@ -1,0 +1,20 @@
+'title'，岗位名字
+'address'，地址
+'jobType'，岗位
+'educational'，学历
+ 'workExperience'，工作经验
+'workTag'，工作标签
+'salary'，薪资
+ 'salaryMonth'，年底多薪
+'companyTag'，公司福利
+'hrWork'，hr职位
+'hrName' ，hr名字
+'practice'，是否为实习生
+'companyTitle'，公司名字
+'companyAvatar'，公司头像
+'companyNature'，公司性质
+'companyStatus'，公司状态
+'companyPeople'，公司人数
+'detailUrl'，详情页链接 
+ 'companyUrl'，公司详情页链接
+ 'dist'，行政区 
