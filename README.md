@@ -85,6 +85,13 @@ python manage.py runserver
 ### 6. 访问项目
 
 在浏览器中访问 `http://127.0.0.1:8000/` (或其他Django服务器提示的地址)，即可访问数据可视化Web应用。
+登录界面：
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/9facb323-b863-4154-9ff5-b441657a2dee" />
+主界面：
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/fc09da2b-a0e2-4961-bf02-e17d20f85fb1" />
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/3a1cb681-f8da-4a6b-b6dd-50dc1fbf77d4" />
+左边侧边栏可以切换导航到不同页面查看其他可视化数据，还可以管理个人信息
+
 
 ## 项目文件结构 (核心部分)
 
@@ -95,7 +102,8 @@ python manage.py runserver
 *   `templates/`: 存放Django模板文件，用于渲染Web页面。
 *   `static/`: 存放静态文件，如CSS、JavaScript和图片。
 *   `Boss直聘数据可视化/`: Django项目的核心配置目录，包含 `settings.py` (项目设置) 和 `urls.py` (项目URL配置)。
-
+*   `moban`: 内置大量的前端模板可供选择使用。
+  
 ## 许可证 (可选)
 
 本项目遵循 [MIT 许可证](LICENSE)。
